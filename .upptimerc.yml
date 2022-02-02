@@ -7,11 +7,21 @@ sites:
     url: https://www.fewlines.com.ar
   - name: Crovara
     url: https://crovara.fewlines.com.ar
+  - name: CrovaraLafe
+    url: https://crovaralafe.fewlines.com.ar
   - name: Dintec
     url: https://dintec.fewlines.com.ar
   - name: Fauval 1
     url: https://fauval1.fewlines.com.ar
-
+  - name: Fauval 2
+    url: https://fauval2.fewlines.com.ar
+  - name: Fauval 3
+    url: https://fauval3.fewlines.com.ar
+  - name: Rogel
+    url: https://rogel.fewlines.com.ar
+  - name: Roncati
+    url: https://roncati.fewlines.com.ar
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
