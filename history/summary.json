@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 863,
     "timeDay": 867,
-    "timeWeek": 863,
+    "timeWeek": 856,
     "timeMonth": 863,
     "timeYear": 863,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1048,
     "timeDay": 1057,
-    "timeWeek": 1048,
+    "timeWeek": 990,
     "timeMonth": 1048,
     "timeYear": 1048,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 2004,
     "timeDay": 1013,
-    "timeWeek": 2004,
+    "timeWeek": 1005,
     "timeMonth": 2004,
     "timeYear": 2004,
     "dailyMinutesDown": {}
@@ -58,18 +58,20 @@
     "url": "https://dintec.fewlines.com.ar",
     "icon": "https://favicons.githubusercontent.com/dintec.fewlines.com.ar",
     "slug": "dintec",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1011,
-    "timeDay": 1083,
-    "timeWeek": 1011,
-    "timeMonth": 1011,
-    "timeYear": 1011,
-    "dailyMinutesDown": {}
+    "time": 1006,
+    "timeDay": 1004,
+    "timeWeek": 977,
+    "timeMonth": 1006,
+    "timeYear": 1006,
+    "dailyMinutesDown": {
+      "2022-02-09": 0
+    }
   },
   {
     "name": "Fauval 1",
@@ -84,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 1032,
     "timeDay": 920,
-    "timeWeek": 1032,
+    "timeWeek": 950,
     "timeMonth": 1032,
     "timeYear": 1032,
     "dailyMinutesDown": {}
@@ -106,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-09": 60,
+      "2022-02-09": 765,
       "2022-02-08": 1440,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
@@ -129,7 +131,7 @@
     "uptimeYear": "100.00%",
     "time": 1777,
     "timeDay": 1042,
-    "timeWeek": 1777,
+    "timeWeek": 935,
     "timeMonth": 1777,
     "timeYear": 1777,
     "dailyMinutesDown": {}
@@ -147,7 +149,7 @@
     "uptimeYear": "100.00%",
     "time": 948,
     "timeDay": 908,
-    "timeWeek": 948,
+    "timeWeek": 949,
     "timeMonth": 948,
     "timeYear": 948,
     "dailyMinutesDown": {}
@@ -165,7 +167,7 @@
     "uptimeYear": "100.00%",
     "time": 1862,
     "timeDay": 931,
-    "timeWeek": 1862,
+    "timeWeek": 929,
     "timeMonth": 1862,
     "timeYear": 1862,
     "dailyMinutesDown": {}
