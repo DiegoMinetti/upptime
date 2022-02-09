@@ -58,19 +58,19 @@
     "url": "https://dintec.fewlines.com.ar",
     "icon": "https://favicons.githubusercontent.com/dintec.fewlines.com.ar",
     "slug": "dintec",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1006,
-    "timeDay": 1004,
-    "timeWeek": 977,
-    "timeMonth": 1006,
-    "timeYear": 1006,
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "95.69%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
+    "time": 1002,
+    "timeDay": 971,
+    "timeWeek": 969,
+    "timeMonth": 1002,
+    "timeYear": 1002,
     "dailyMinutesDown": {
-      "2022-02-09": 0
+      "2022-02-09": 62
     }
   },
   {
@@ -108,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-09": 765,
+      "2022-02-09": 827,
       "2022-02-08": 1440,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
