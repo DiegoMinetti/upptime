@@ -22,18 +22,20 @@
     "url": "https://crovara.fewlines.com.ar",
     "icon": "https://favicons.githubusercontent.com/crovara.fewlines.com.ar",
     "slug": "crovara",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1067,
-    "timeDay": 2298,
-    "timeWeek": 1181,
-    "timeMonth": 1067,
-    "timeYear": 1067,
-    "dailyMinutesDown": {}
+    "time": 1061,
+    "timeDay": 1575,
+    "timeWeek": 1140,
+    "timeMonth": 1061,
+    "timeYear": 1061,
+    "dailyMinutesDown": {
+      "2022-02-24": 0
+    }
   },
   {
     "name": "CrovaraLafe",
@@ -108,7 +110,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-24": 62,
+      "2022-02-24": 165,
       "2022-02-23": 1440,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
