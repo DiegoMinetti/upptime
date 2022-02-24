@@ -22,19 +22,19 @@
     "url": "https://crovara.fewlines.com.ar",
     "icon": "https://favicons.githubusercontent.com/crovara.fewlines.com.ar",
     "slug": "crovara",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 1049,
-    "timeDay": 1206,
-    "timeWeek": 1080,
-    "timeMonth": 1049,
-    "timeYear": 1049,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "96.12%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 1050,
+    "timeDay": 1180,
+    "timeWeek": 1079,
+    "timeMonth": 1050,
+    "timeYear": 1050,
     "dailyMinutesDown": {
-      "2022-02-24": 26
+      "2022-02-24": 56
     }
   },
   {
@@ -110,7 +110,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-24": 976,
+      "2022-02-24": 1006,
       "2022-02-23": 1440,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
